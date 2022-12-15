@@ -1,5 +1,5 @@
 # database_interface
- python -m pip freeze
+**python -m pip freeze**
 click==7.1.2
 mysql-connector-python==8.0.31
 protobuf==3.20.1
